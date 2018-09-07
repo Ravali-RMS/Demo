@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HLOWLD
 {
-    public class Class1
+    class BaseClass
     {
     }
 }
